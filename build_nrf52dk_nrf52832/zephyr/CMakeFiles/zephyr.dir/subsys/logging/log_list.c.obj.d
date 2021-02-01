@@ -1,0 +1,19 @@
+zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_list.c.obj: \
+ /home/audifaz/ncs/zephyr/subsys/logging/log_list.c \
+ /home/audifaz/Test/rgb_led/build_nrf52dk_nrf52832/zephyr/include/generated/autoconf.h \
+ /home/audifaz/ncs/zephyr/include/toolchain/zephyr_stdint.h \
+ /home/audifaz/ncs/zephyr/subsys/logging/log_list.h \
+ /home/audifaz/ncs/zephyr/include/logging/log_msg.h \
+ /home/audifaz/ncs/zephyr/include/sys/atomic.h \
+ /home/audifaz/ncs/zephyr/lib/libc/minimal/include/stdbool.h \
+ /home/audifaz/ncs/zephyr/include/toolchain.h \
+ /home/audifaz/ncs/zephyr/include/toolchain/gcc.h \
+ /home/audifaz/ncs/zephyr/include/toolchain/common.h \
+ /opt/gnuarmemb/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /home/audifaz/ncs/zephyr/include/zephyr/types.h \
+ /home/audifaz/ncs/zephyr/lib/libc/minimal/include/stdint.h \
+ /home/audifaz/ncs/zephyr/include/sys/util.h \
+ /home/audifaz/ncs/zephyr/include/sys/util_macro.h \
+ /home/audifaz/ncs/zephyr/include/sys/util_internal.h \
+ /home/audifaz/ncs/zephyr/lib/libc/minimal/include/string.h \
+ /home/audifaz/ncs/zephyr/lib/libc/minimal/include/bits/restrict.h
